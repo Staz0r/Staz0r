@@ -3,7 +3,7 @@
 Systems-oriented CS student building reliable software from UI to low-level debugging.  
 Open to internship opportunities (Apr 2026).
 
-[Portfolio](https://your-portfolio-url) • [Resume](https://your-resume-url) • [LinkedIn](https://linkedin.com/in/your-link) • [Email](mailto:you@example.com)
+[Portfolio](https://Staz0r.github.io) • [Resume](https://drive.proton.me/urls/SR2QDGXGAC#22ogNOnPdIJv) • [Email](mailto:darrenfj@proton.me)
 
 ## Tech
 
@@ -25,6 +25,8 @@ Open to internship opportunities (Apr 2026).
 - [JavaFX 2D Game Engine](https://github.com/Staz0r/JavaFX-2D-Game-Engine) — modular game engine prototype + collision logic
 
 ## Stats
-
+<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=Staz0r&theme=tokyonight&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staz0r&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Staz0r&layout=compact&theme=tokyonight&hide_border=true)
+</p>
