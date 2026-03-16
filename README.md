@@ -25,18 +25,10 @@ Open to internship opportunities (Apr 2026).
 - [JavaFX 2D Game Engine](https://github.com/Staz0r/JavaFX-2D-Game-Engine) — modular game engine prototype + collision logic
 
 ## Stats
-<h2>
-  <center>
-    ![GitHub Streak](https://streak-stats.demolab.com?user=Staz0r&theme=tokyonight&hide_border=true)
-  </center>
-</h2>
-<h2>
-  <center>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staz0r&show_icons=true&theme=tokyonight&hide_border=true)
-  </center>
-</h2>
-<h2>
-  <center>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Staz0r&layout=compact&theme=tokyonight&hide_border=true)
-  </center>
-</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Staz0r&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Staz0r&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
