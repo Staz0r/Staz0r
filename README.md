@@ -26,6 +26,10 @@ Open to internship opportunities (Apr 2026).
 
 ## Stats
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Staz0r&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Staz0r&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
