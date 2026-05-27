@@ -1,7 +1,6 @@
 # Hi, I'm Staz0r
 
-Systems-oriented CS student building reliable software from UI to low-level debugging.  
-Open to internship opportunities (Apr 2026).
+Systems-oriented CS student building reliable software from UI to low-level debugging.
 
 [Portfolio](https://Staz0r.github.io) • [Resume](https://drive.proton.me/urls/SR2QDGXGAC#22ogNOnPdIJv) • [Email](mailto:darrenfj@proton.me)
 
