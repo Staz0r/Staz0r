@@ -20,7 +20,7 @@ Systems-oriented CS student building reliable software from UI to low-level debu
 ## Featured
 
 - [HydroTracker](https://github.com/Staz0r/hydrotracker) — hydration tracker with goals, streaks, and leaderboard
-- [Node-HID Bridge](https://github.com/Staz0r/teevo-driver) — reverse-engineering WebHID behavior in Node.js
+- [Teevo Terra XD9 Pro Driver](https://github.com/Staz0r/teevo-driver) — reverse-engineering WebHID behavior in Node.js
 - [JavaFX 2D Game Engine](https://github.com/Staz0r/JavaFX-2D-Game-Engine) — modular game engine prototype + collision logic
 
 ## Stats
